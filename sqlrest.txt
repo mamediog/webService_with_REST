@@ -1,0 +1,8 @@
+CREATE TABLE escuela(
+idE VARCHAR2(100),
+nombre VARCHAR2(200),
+profesor VARCHAR2(200),
+fechaCreacion DATE,
+estudiante VARCHAR2(200),
+CONSTRAINT pkescuela PRIMARY KEY(idE)
+);

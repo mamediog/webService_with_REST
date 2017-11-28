@@ -1,0 +1,35 @@
+D:\PruebasSW\ServicioREST\ClienteREST\ClienteRESTWS\ClienteRESTWS\bin\Debug\ClienteRESTWS.exe.config
+D:\PruebasSW\ServicioREST\ClienteREST\ClienteRESTWS\ClienteRESTWS\bin\Debug\ClienteRESTWS.exe
+D:\PruebasSW\ServicioREST\ClienteREST\ClienteRESTWS\ClienteRESTWS\bin\Debug\ClienteRESTWS.pdb
+D:\PruebasSW\ServicioREST\ClienteREST\ClienteRESTWS\ClienteRESTWS\bin\Debug\ClienteRESTWS.xml
+D:\PruebasSW\ServicioREST\ClienteREST\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.Form1.resources
+D:\PruebasSW\ServicioREST\ClienteREST\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.Resources.resources
+D:\PruebasSW\ServicioREST\ClienteREST\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.vbproj.GenerateResource.Cache
+D:\PruebasSW\ServicioREST\ClienteREST\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.exe
+D:\PruebasSW\ServicioREST\ClienteREST\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.xml
+D:\PruebasSW\ServicioREST\ClienteREST\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.pdb
+D:\PruebasSW\ServicioREST\ClienteREST\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\SOA\ServiciosWebREST\ClienteREST\ClienteRESTWS\ClienteRESTWS\bin\Debug\ClienteRESTWS.exe.config
+C:\Users\Asus\Desktop\SOA\ServiciosWebREST\ClienteREST\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.exe
+C:\Users\Asus\Desktop\SOA\ServiciosWebREST\ClienteREST\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.xml
+C:\Users\Asus\Desktop\SOA\ServiciosWebREST\ClienteREST\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.pdb
+C:\Users\Asus\Desktop\SOA\ClienteRESTGM\ClienteRESTWS\ClienteRESTWS\bin\Debug\ClienteRESTWS.exe.config
+C:\Users\Asus\Desktop\SOA\ClienteRESTGM\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.exe
+C:\Users\Asus\Desktop\SOA\ClienteRESTGM\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.xml
+C:\Users\Asus\Desktop\SOA\ClienteRESTGM\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.pdb
+C:\Users\Asus\Desktop\SOA\ClienteRESTGM\ClienteRESTWS\ClienteRESTWS\bin\Debug\ClienteRESTWS.exe
+C:\Users\Asus\Desktop\SOA\ClienteRESTGM\ClienteRESTWS\ClienteRESTWS\bin\Debug\ClienteRESTWS.pdb
+C:\Users\Asus\Desktop\SOA\ClienteRESTGM\ClienteRESTWS\ClienteRESTWS\bin\Debug\ClienteRESTWS.xml
+C:\Users\Asus\Desktop\SOA\ClienteRESTGM\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\SOA\ClienteRESTGM\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.Resources.resources
+C:\Users\Asus\Desktop\SOA\ClienteRESTGM\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.vbproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\SOA\ClienteRESTGM\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.GUIInsertar.resources
+C:\Users\Asus\Desktop\SOA\ClienteRESTGM\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.GUIListar.resources
+C:\Users\Asus\Desktop\SOA\ClienteRESTGM\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.Principal.resources
+C:\Users\Asus\Desktop\SOA\ClienteRESTGM\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.GUIEliminar.resources
+C:\Users\Asus\Desktop\SOA\ClienteRESTGM\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.GUIBuscar.resources
+C:\Users\Asus\Desktop\SOA\ClienteRESTGM\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.GUIActualizar.resources
+C:\Users\Asus\Desktop\TRABALHO FINAL SOA\ClienteRESTGM\ClienteRESTWS\ClienteRESTWS\bin\Debug\ClienteRESTWS.exe.config
+C:\Users\Asus\Desktop\TRABALHO FINAL SOA\ClienteRESTGM\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.exe
+C:\Users\Asus\Desktop\TRABALHO FINAL SOA\ClienteRESTGM\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.xml
+C:\Users\Asus\Desktop\TRABALHO FINAL SOA\ClienteRESTGM\ClienteRESTWS\ClienteRESTWS\obj\Debug\ClienteRESTWS.pdb
